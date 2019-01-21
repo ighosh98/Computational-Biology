@@ -1,0 +1,2 @@
+Code Output(use IDE/Terminal):
+identifier: NC_000017.11:c43125483-43044295	 GCcontent: 42.929460887558655% Length: 81189
